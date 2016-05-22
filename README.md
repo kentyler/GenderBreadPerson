@@ -26,3 +26,10 @@ Version Number	1.0
 Description	This package allows you to add a set of preferred pronouns to a Contact record. Each set is broken down into the subject, object, possessive, possessive pronoun and reflexive form of the pronoun so that those values can be used as merge fields.	Password Protected	Not Checked[Change Password]
 Post Install Instructions	http://8thfold.com/genderbreadperson-pronouns/
 Installation URL	https://login.salesforce.com/packaging/installPackage.apexp?p0=04t36000000lUDR
+
+Package Name	GenderBreadPerson Contact Types	Uploaded By	Kenneth Tyler,   5/22/2016 8:01 AM
+Version Name	GenderBreadPerson Contact Types	 	 
+Version Number	1.0		
+Description	Adds the fields/rules/triggers/objects necessary to have multliple contact types for a contact in Salesforce. See details at https://github.com/kentyler/GenderBreadPerson/wiki/Contact-Types	Password Protected	Not Checked[Change Password]
+Post Install Instructions	https://github.com/kentyler/GenderBreadPerson/wiki/Contact-Types
+Installation URL	https://login.salesforce.com/packaging/installPackage.apexp?p0=04t36000000xNVm
